@@ -26,14 +26,6 @@ const Cards = () => {
 
         </div>
         <div><h1 className='text-lime-950 font-medium text-[18px]'>In Progress</h1>
-        
-        
-        <div className="parent1">
-          <div className="child">Hover Me
-              <div className="parent2">Child Element</div>
-          </div>
-        </div>
-        
         </div>
         <div><h1 className='text-lime-950 font-medium text-[18px]'>Done</h1></div>
 
